@@ -1,9 +1,9 @@
+#sp{
+    width:150px;
+}
 #spisok1{
-    list-style-type:disk;
+    list-style-position:inside;
 }
 #spisok2{
-    list-style-type:circle;
-}
-#spisok3{
-    list-style-type:square;
+    list-style-position:outside;
 }
